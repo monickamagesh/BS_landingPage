@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.medium{
+    @apply text-stone-900 text-base font-medium  leading-normal tracking-tight
+}
+
+.normal{
+    @apply text-stone-900 text-sm font-normal leading-tight
+}
+
+.semibold{
+    @apply text-stone-900 text-2xl font-semibold  leading-loose
+}
+
+.bold{
+    @apply w-[290px] text-stone-900 text-2xl font-bold  leading-loose
+
+}
+
+.link{
+    @apply text-black text-base font-medium  leading-normal tracking-tight
+}
+.mtext{
+    @apply text-stone-950 text-lg font-semibold leading-7 
+}
+
+.lswiper{
+    @apply h-96 w-[70%] mx-auto flex flex-col justify-center items-center text-center  gap-12
+}
+
+.mswiper{
+    @apply h-80 w-[90%] mx-auto flex flex-col justify-center items-center text-center gap-7
+}
+.btn{
+    @apply bg-emerald-700 text-stone-50 text-base text-center font-semibold leading-normal tracking-tight
+    px-3 py-2.5 rounded-sm
+}
+
+
+.testi{
+    @apply w-80 h-[133px] flex flex-col justify-center md:min-w-full 
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    
+
+    /* Center slide text vertically */
+
+    
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: rgb(0, 128, 64)
+}
+
+.LongHeadlineToTur{
+    @apply text-black text-4xl font-bold  leading-10
+}
+
+.m9{
+    @apply text-stone-900 text-base font-normal leading-normal
+}
+
+.l9{
+    @apply text-black text-xl font-normal  leading-normal tracking-tight
+} 

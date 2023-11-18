@@ -1,0 +1,19 @@
+{
+    "services":[
+    {
+        "id":"1",
+        "service":"Data-driven",
+        "des":"The information gathered is analysed, interpretations are produced, and one's business is expanded sustainably."
+    },
+    {
+        "id":"1",
+        "service":"Tangible result",
+        "des":"The objectives are accomplished, and the desired result is produced."
+    },
+    {
+        "id":"1",
+        "service":"Get cozy ",
+        "des":"Just unwind as we direct your business toward sustainability."
+    }
+    ]
+}
