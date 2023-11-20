@@ -1,6 +1,5 @@
 "use client"
 
-
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -24,7 +23,7 @@ const Navbar = () => {
     
 
     return (
-    <nav className=' bg-bc fixed top-0 left-0 w-full  z-20 h-20 '>
+    <nav className=' bg-white fixed top-0 left-0 w-full  z-20 h-20 '>
     <div className="md:flex justify-between w-5/6 py-5 md:max-w-5xl mx-auto items-center">
         <div className='flex justify-between items-center'>
         <div className=" ">

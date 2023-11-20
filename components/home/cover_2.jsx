@@ -16,7 +16,7 @@ const Cover_2= () => {
                     <div className="btn w-full sm:w-36 h-12 px-2.5 py-1.5 justify-start items-center "><Link href={'/Contact'}>Contact us</Link></div>
                 </div>
                 <div className='basis-2/5 w-full items-center  '>
-                    <img src='https://res.cloudinary.com/dr657lt3a/image/upload/v1700248034/landing/service/jdrlbfxuyf3ftsbnlmqs.jpg' className="w-96 h-74  bg-black bg-opacity-20 rounded-md mx-auto "/>
+                    <Image src='https://res.cloudinary.com/dr657lt3a/image/upload/v1700248034/landing/service/jdrlbfxuyf3ftsbnlmqs.jpg' className="w-96 h-74  bg-black bg-opacity-20 rounded-md mx-auto "/>
                 </div>
             </div>
 

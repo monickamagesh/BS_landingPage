@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Content_3 = () => {
-    
+
     const services = [
     {
         id:1,
@@ -55,6 +55,6 @@ const Content_3 = () => {
         </section>
 
     );
-    };
+};
 
 export default Content_3;
